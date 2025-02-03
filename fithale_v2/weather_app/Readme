@@ -1,0 +1,6 @@
+Steps to run weather app
+
+1) Change directory to lib
+2) install all necessary dependecies using command "flutter pub get"
+3) initiate command flutter main.dart or run command "flutter run"
+4) enter name of city or use the location button to know weather info
